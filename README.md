@@ -1,1 +1,4 @@
-# TCC
+    A Hidden Binary Search Tree (HBST) é uma estrutura de dados em árvore pseudobalanceada desenvolvida em 2017 pelo professor Saulo Queiroz com complexidade O(B) para as operações de inserção, busca e remoção, onde B representa a quantidade de bits usada pela chave e também, consequentemente, a altura máxima da árvore.
+    Este trabalho de Conclusão de Curso discute diferentes formas de implementar o crescimento dinãmico da Hidden Binary Search Tree (HBST) visando melhorar a altura da árvore para algumas instãncias, concluindo no algoritmo denominado Dinamic Hidden Binary Search Tree (DHBST).
+    Antes ainda, aborda como deixar a HBST ordenada pela chave através da técnica de Propagação, criando assim a Sorted Hidden Binary Search Tree (SHBST), com isso, poder realizar a operação de travessia em O(n).
+    Por fim, faz-se uma análise empírica entre os algoritmos AVL, HBST, SHBST e DHBST, cujos códigos estão anexados neste repositório.
